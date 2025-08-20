@@ -1,0 +1,9 @@
+# stock_price_predictor/requirements.txt
+yfinance
+streamlit
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
+ta
